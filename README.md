@@ -3,7 +3,7 @@
 要求三：
 
 1.
- ![image](https://github.com/Ariana850409/20210322_week5hw/blob/main/3-1.0.png)
+ ![image](https://github.com/Ariana850409/20210322_week5hw/blob/main/3-1.0.png) \n
  ![image](https://github.com/Ariana850409/20210322_week5hw/blob/main/3-1.1.png)
  
 2.
